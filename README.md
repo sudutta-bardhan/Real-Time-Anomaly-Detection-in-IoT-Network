@@ -84,5 +84,4 @@ RealTimeAnomalyDetection/
 ---
 
 📬 Contact
-Created by Sudutta Bardhan
-Feel free to reach out via LinkedIn for collaboration or questions!
+Created by Sudutta Bardhan (Feel free to reach out via LinkedIn for collaboration or questions!)
